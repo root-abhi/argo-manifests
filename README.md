@@ -1,1 +1,1 @@
-# argo-manifests
+# jenkins-shared-libraries
